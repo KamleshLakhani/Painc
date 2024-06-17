@@ -1,0 +1,93 @@
+{
+  "project_info": {
+    "project_number": "254782023228",
+    "firebase_url": "https://painc-8cb88.firebaseio.com",
+    "project_id": "painc-8cb88",
+    "storage_bucket": "painc-8cb88.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:254782023228:android:1d31e0a6d0468288538539",
+        "android_client_info": {
+          "package_name": "com.chronicpainc.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "254782023228-9e5njf91tu56iuq2jfg7r37ofar9aq5d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAS5Jr8nRTAEdHgFTtTp_ZXitI-YgbMSkc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "254782023228-9e5njf91tu56iuq2jfg7r37ofar9aq5d.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "254782023228-e5hre2h9v2fcp7aqcsacsav4ba14fu57.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.chronicpainc.app",
+                "app_store_id": "1529447804"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:254782023228:android:bad8db8a09683a09538539",
+        "android_client_info": {
+          "package_name": "com.medicalapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "254782023228-pp1rh2npchjn2cminfplopp0ks14c7kl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.medicalapp",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "254782023228-9e5njf91tu56iuq2jfg7r37ofar9aq5d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAS5Jr8nRTAEdHgFTtTp_ZXitI-YgbMSkc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "254782023228-9e5njf91tu56iuq2jfg7r37ofar9aq5d.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "254782023228-e5hre2h9v2fcp7aqcsacsav4ba14fu57.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.chronicpainc.app",
+                "app_store_id": "1529447804"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

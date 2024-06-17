@@ -1,0 +1,71 @@
+name: painc
+description: A new Flutter application.
+
+# The following line prevents the package from being accidentally published to
+# pub.dev using `pub publish`. This is preferred for private packages.
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  get:
+  local_auth:
+  flutter_xlider:
+  flutter_svg:
+  google_fonts:
+  intl:
+  syncfusion_flutter_charts:
+  flutter_bloc: ^4.0.0
+  shared_preferences:
+  connectivity:
+  get_storage:
+  image_picker:
+  cached_network_image:
+  screenshot:
+  syncfusion_flutter_pdf:
+  path_provider:
+  flutter_typeahead:
+  flutter_html:
+  cupertino_icons:
+  delayed_display:
+  fluttertoast:
+  device_info:
+  firebase_core:
+  cloud_firestore:
+  badges:
+  open_file:
+  firebase_messaging:
+  flutter_local_notifications:
+  url_launcher:
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+# For information on the generic Dart part of this file, see the
+# following page: https://dart.dev/tools/pub/pubspec
+
+# The following section is specific to Flutter.
+flutter:
+  uses-material-design: true
+
+  # To add assets to your application, add an assets section, like this:
+  assets:
+    - assets/
+    - assets/svg/
+
+  fonts:
+    - family: Nunito
+      fonts:
+        - asset: fonts/Nunito-Bold.ttf
+    - family: Nunito SemiBold
+      fonts:
+        - asset: fonts/Nunito-SemiBold.ttf
+    - family: Nunito Light
+      fonts:
+        - asset: fonts/Nunito-Light.ttf
+
+
